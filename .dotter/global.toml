@@ -1,0 +1,4 @@
+[wayland]
+
+[wayland.files]
+hypr = "~/.config/hypr"
